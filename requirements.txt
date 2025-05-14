@@ -1,0 +1,4 @@
+nltk==3.8.1
+spacy==3.7.4
+inflect==6.0.4
+wordfreq==3.0.3
