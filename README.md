@@ -1,10 +1,10 @@
 # Project structure
 
-synonym-scrambler/
-├── synonym_scrambler.py
-├── requirements.txt
-├── README.md
-└── LICENSE
+synonym-scrambler/  
+├── synonym_scrambler.py  
+├── requirements.txt  
+├── README.md  
+└── LICENSE  
 
 
 # Synonym Scrambler
