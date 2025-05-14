@@ -1,3 +1,12 @@
+# Project structure
+
+synonym-scrambler/
+├── synonym_scrambler.py
+├── requirements.txt
+├── README.md
+└── LICENSE
+
+
 # Synonym Scrambler
 
 A command-line tool to scramble input text by replacing words with contextually similar synonyms, without using an LLM. Built to obfuscate writing patterns and confuse AI detectors.
